@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TapRoom/static/css/main.1c56fc17.chunk.css",
+    "main.js": "/TapRoom/static/js/main.be8582dc.chunk.js",
+    "main.js.map": "/TapRoom/static/js/main.be8582dc.chunk.js.map",
+    "runtime-main.js": "/TapRoom/static/js/runtime-main.e6260de6.js",
+    "runtime-main.js.map": "/TapRoom/static/js/runtime-main.e6260de6.js.map",
+    "static/js/2.d5f5b2d9.chunk.js": "/TapRoom/static/js/2.d5f5b2d9.chunk.js",
+    "static/js/2.d5f5b2d9.chunk.js.map": "/TapRoom/static/js/2.d5f5b2d9.chunk.js.map",
+    "index.html": "/TapRoom/index.html",
+    "precache-manifest.50508cbe01ddee8bf7ef2599bd25397e.js": "/TapRoom/precache-manifest.50508cbe01ddee8bf7ef2599bd25397e.js",
+    "service-worker.js": "/TapRoom/service-worker.js",
+    "static/css/main.1c56fc17.chunk.css.map": "/TapRoom/static/css/main.1c56fc17.chunk.css.map",
+    "static/js/2.d5f5b2d9.chunk.js.LICENSE.txt": "/TapRoom/static/js/2.d5f5b2d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6260de6.js",
+    "static/js/2.d5f5b2d9.chunk.js",
+    "static/css/main.1c56fc17.chunk.css",
+    "static/js/main.be8582dc.chunk.js"
+  ]
+}
