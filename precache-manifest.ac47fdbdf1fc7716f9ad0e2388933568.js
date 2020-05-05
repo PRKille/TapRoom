@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90644ce0020503a1ff748d4530bcf0b8",
+    "revision": "c3a35ed8711efa20d126263923e7412a",
     "url": "/TapRoomRedux/index.html"
   },
   {
-    "revision": "f76844f6165413730d4c",
+    "revision": "fd05706405f529238657",
     "url": "/TapRoomRedux/static/css/main.59bbe77b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TapRoomRedux/static/js/2.3d73cfc9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f76844f6165413730d4c",
-    "url": "/TapRoomRedux/static/js/main.dde8082e.chunk.js"
+    "revision": "fd05706405f529238657",
+    "url": "/TapRoomRedux/static/js/main.47620258.chunk.js"
   },
   {
     "revision": "67e53bbb5fd872e8a9f3",
